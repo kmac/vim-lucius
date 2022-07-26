@@ -609,16 +609,16 @@ else
     else
         hi FoldColumn   guifg=#bcbcbc
         hi Folded       guifg=#bcbcbc
-        hi Pmenu                        guibg=#b2b2b2
-        hi PmenuSbar    guifg=#b2b2b2   guibg=#d0d0d0
-        hi PmenuThumb                   guibg=#808080
+        hi Pmenu                        guibg=#767676
+        hi PmenuSbar    guifg=#767676   guibg=#d0d0d0
+        hi PmenuThumb                   guibg=#767676
         hi SignColumn   guifg=#b2b2b2
-        hi StatusLine                   guibg=#b2b2b2
-        hi StatusLineNC                 guibg=#b2b2b2
-        hi TabLine                      guibg=#b2b2b2
-        hi TabLineFill                  guibg=#b2b2b2
+        hi StatusLine                   guibg=#303030
+        hi StatusLineNC                 guibg=#303030
+        hi TabLine                      guibg=#767676
+        hi TabLineFill                  guibg=#767676
         hi TabLineSel                   guibg=#005f87
-        hi VertSplit                    guibg=#b2b2b2
+        hi VertSplit                    guibg=#767676
     endif
 endif
 
